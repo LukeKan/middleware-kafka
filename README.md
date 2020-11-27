@@ -6,7 +6,7 @@ In each of the subfolders, you can find the Java code and a screenshot of the re
 
 ## Requirements
 * Zookeper ver. 3.5.8
-* Apache Kafka ver. 2.13-2.6.0  \n\n
+* Apache Kafka ver. 2.13-2.6.0  
 
 Download such files at [https://kafka.apache.org/downloads](https://kafka.apache.org/downloads). 
 ### Launch Kafka
